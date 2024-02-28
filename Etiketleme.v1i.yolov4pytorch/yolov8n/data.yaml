@@ -1,0 +1,6 @@
+train: C:\Users\524ha\Desktop\IHADetectModel\Etiketleme.v1i.yolov4pytorch\train
+val: C:\Users\524ha\Desktop\IHADetectModel\Etiketleme.v1i.yolov4pytorch\valid
+test: C:\Users\524ha\Desktop\IHADetectModel\Etiketleme.v1i.yolov4pytorch\test
+
+names: 
+  0: IHA
